@@ -32,3 +32,8 @@ https://github.com/ucxpresso/nano11uxx/tree/master/examples/cookbook/ble_app_uar
 ##### nano51822 (LilyPad) 
 
 https://github.com/ucxpresso/nano51822/tree/master/examples/cookbook/ble_app_uart_remote_control
+  
+---
+  
+### Code Reference  
+https://developer.mbed.org/forum/wiki-16691-forum/topic/5134/
